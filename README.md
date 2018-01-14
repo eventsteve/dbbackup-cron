@@ -9,5 +9,9 @@
 + **REMOTE_FILE**: Backup file name and directory on Backup server.
 + **FILE_NAME**: Local file name.
 
+### Note:
+You should add backup server ssh keys to the container whit mounting these.
+
+
 
 
